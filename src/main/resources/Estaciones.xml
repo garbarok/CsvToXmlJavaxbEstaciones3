@@ -1,0 +1,1025 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<estaciones>
+    <estacion>
+        <codigo>2002</codigo>
+        <descripcion>PUENTE GENIL-HERRERA</descripcion>
+        <latitud>37.3579</latitud>
+        <longitud>-4.821638</longitud>
+        <direccion>Carretera A-318 - Km. 9 - Entre los Pueblos de Puente Genil (Córdoba) y Herrera (Sevilla)</direccion>
+        <cp>14500</cp>
+        <poblacion>PUENTE GENIL</poblacion>
+        <provincia>CÓRDOBA</provincia>
+        <pais>ESPAÑA</pais>
+        <cercanias>NO</cercanias>
+        <feve>NO</feve>
+        <comun>PTE G</comun>
+    </estacion>
+    <estacion>
+        <codigo>2003</codigo>
+        <descripcion>ANTEQUERA-SANTA ANA</descripcion>
+        <latitud>37.069881</latitud>
+        <longitud>-4.719014</longitud>
+        <direccion>Carretera Ma-5406 - Estacion Ferrocarril, S/N</direccion>
+        <cp>29540</cp>
+        <poblacion>ANTEQUERA</poblacion>
+        <provincia>MÁLAGA</provincia>
+        <pais>ESPAÑA</pais>
+        <cercanias>NO</cercanias>
+        <feve>NO</feve>
+        <comun>ANTEQ</comun>
+    </estacion>
+    <estacion>
+        <codigo>2030</codigo>
+        <descripcion>ANTEQUERA AV</descripcion>
+        <latitud>37.0334437</latitud>
+        <longitud>-4.5612901</longitud>
+        <direccion></direccion>
+        <cp></cp>
+        <poblacion>ANTEQUERA</poblacion>
+        <provincia>MÁLAGA</provincia>
+        <pais>ESPAÑA</pais>
+        <cercanias>NO</cercanias>
+        <feve>NO</feve>
+        <comun>ANTEQ</comun>
+    </estacion>
+    <estacion>
+        <codigo>3208</codigo>
+        <descripcion>CUENCA FERNANDO ZÓBEL</descripcion>
+        <latitud>40.035192</latitud>
+        <longitud>-2.14441</longitud>
+        <direccion>Avenida Cerro de la Estrella, S/N - N-320 - Circunvalacion de Cuenca</direccion>
+        <cp>16004</cp>
+        <poblacion>CUENCA</poblacion>
+        <provincia>CUENCA</provincia>
+        <pais>ESPAÑA</pais>
+        <cercanias>NO</cercanias>
+        <feve>NO</feve>
+        <comun>CUENC</comun>
+    </estacion>
+    <estacion>
+        <codigo>3216</codigo>
+        <descripcion>VALENCIA JOAQUÍN SOROLLA</descripcion>
+        <latitud>39.459051</latitud>
+        <longitud>-0.382923</longitud>
+        <direccion>Calle San Vicente Martir, 171</direccion>
+        <cp>46007</cp>
+        <poblacion>VALENCIA</poblacion>
+        <provincia>VALENCIA/VALÈNCIA</provincia>
+        <pais>ESPAÑA</pais>
+        <cercanias>SI</cercanias>
+        <feve>NO</feve>
+        <comun>VALEN</comun>
+    </estacion>
+    <estacion>
+        <codigo>4007</codigo>
+        <descripcion>GUADALAJARA - YEBES</descripcion>
+        <latitud>40.587315</latitud>
+        <longitud>-3.124301</longitud>
+        <direccion>Carretera N-320 Sacedon-Cuenca, Km 268</direccion>
+        <cp>19000</cp>
+        <poblacion>YEBES</poblacion>
+        <provincia>GUADALAJARA</provincia>
+        <pais>ESPAÑA</pais>
+        <cercanias>NO</cercanias>
+        <feve>NO</feve>
+        <comun>GUADA</comun>
+    </estacion>
+    <estacion>
+        <codigo>4040</codigo>
+        <descripcion>ZARAGOZA-DELICIAS</descripcion>
+        <latitud>41.658649</latitud>
+        <longitud>-0.911615</longitud>
+        <direccion>Calle Rioja, 33</direccion>
+        <cp>50011</cp>
+        <poblacion>ZARAGOZA</poblacion>
+        <provincia>ZARAGOZA</provincia>
+        <pais>ESPAÑA</pais>
+        <cercanias>SI</cercanias>
+        <feve>NO</feve>
+        <comun>ZARAG</comun>
+    </estacion>
+    <estacion>
+        <codigo>4104</codigo>
+        <descripcion>CAMP TARRAGONA</descripcion>
+        <latitud>41.192066</latitud>
+        <longitud>1.272666</longitud>
+        <direccion>Calle Mas L Hereuet, S/N</direccion>
+        <cp>43765</cp>
+        <poblacion>TARRAGONA</poblacion>
+        <provincia>TARRAGONA</provincia>
+        <pais>ESPAÑA</pais>
+        <cercanias>SI</cercanias>
+        <feve>NO</feve>
+        <comun>TARRA</comun>
+    </estacion>
+    <estacion>
+        <codigo>5019</codigo>
+        <descripcion>ANTEQUERA-CIUDAD</descripcion>
+        <latitud>37.028171</latitud>
+        <longitud>-4.560911</longitud>
+        <direccion>Barriada Estacion, S/N</direccion>
+        <cp>29200</cp>
+        <poblacion>ANTEQUERA</poblacion>
+        <provincia>MÁLAGA</provincia>
+        <pais>ESPAÑA</pais>
+        <cercanias>NO</cercanias>
+        <feve>NO</feve>
+        <comun>ANTEQ</comun>
+    </estacion>
+    <estacion>
+        <codigo>5201</codigo>
+        <descripcion>GIJÓN RAM</descripcion>
+        <latitud>43.535175</latitud>
+        <longitud>-5.698318</longitud>
+        <direccion></direccion>
+        <cp></cp>
+        <poblacion>GIJÓN</poblacion>
+        <provincia>ASTURIAS</provincia>
+        <pais>ESPAÑA</pais>
+        <cercanias>SI</cercanias>
+        <feve>NO</feve>
+        <comun>GIJON</comun>
+    </estacion>
+    <estacion>
+        <codigo>8004</codigo>
+        <descripcion>SEGOVIA GUIOMAR</descripcion>
+        <latitud>40.910577</latitud>
+        <longitud>-4.094564</longitud>
+        <direccion>Paseo Campos de Castilla, S/N</direccion>
+        <cp>40006</cp>
+        <poblacion>SEGOVIA</poblacion>
+        <provincia>SEGOVIA</provincia>
+        <pais>ESPAÑA</pais>
+        <cercanias>NO</cercanias>
+        <feve>NO</feve>
+        <comun>SEGOV</comun>
+    </estacion>
+    <estacion>
+        <codigo>8223</codigo>
+        <descripcion>VIGO URZAIZ</descripcion>
+        <latitud>42.234189</latitud>
+        <longitud>-8.713728</longitud>
+        <direccion>Plaza Estacion Ferrocarril, S/N</direccion>
+        <cp>36201</cp>
+        <poblacion>VIGO</poblacion>
+        <provincia>PONTEVEDRA</provincia>
+        <pais>ESPAÑA</pais>
+        <cercanias>NO</cercanias>
+        <feve>NO</feve>
+        <comun>VIGO-</comun>
+    </estacion>
+    <estacion>
+        <codigo>8224</codigo>
+        <descripcion>REDONDELA AV</descripcion>
+        <latitud>42.286005</latitud>
+        <longitud>-8.619402</longitud>
+        <direccion>Estrada de Pazos, 10</direccion>
+        <cp>36818</cp>
+        <poblacion>REDONDELA</poblacion>
+        <provincia>PONTEVEDRA</provincia>
+        <pais>ESPAÑA</pais>
+        <cercanias>NO</cercanias>
+        <feve>NO</feve>
+        <comun>REDON</comun>
+    </estacion>
+    <estacion>
+        <codigo>8240</codigo>
+        <descripcion>MEDINA DEL CAMPO ALTA VELOCIDAD</descripcion>
+        <latitud>41.317459</latitud>
+        <longitud>-4.910071</longitud>
+        <direccion>Carretera Vp-8904 de las Salinas, Km 1,500</direccion>
+        <cp>47400</cp>
+        <poblacion>MEDINA DEL CAMPO</poblacion>
+        <provincia>VALLADOLID</provincia>
+        <pais>ESPAÑA</pais>
+        <cercanias>NO</cercanias>
+        <feve>NO</feve>
+        <comun>MEDIN</comun>
+    </estacion>
+    <estacion>
+        <codigo>10000</codigo>
+        <descripcion>MADRID-PRINCIPE PIO</descripcion>
+        <latitud>40.4215361</latitud>
+        <longitud>-3.7190805</longitud>
+        <direccion>Paseo de la Florida, 2</direccion>
+        <cp>28008</cp>
+        <poblacion>MADRID</poblacion>
+        <provincia>MADRID</provincia>
+        <pais>ESPAÑA</pais>
+        <cercanias>SI</cercanias>
+        <feve>NO</feve>
+        <comun>MADRI</comun>
+    </estacion>
+    <estacion>
+        <codigo>10500</codigo>
+        <descripcion>MEDINA DEL CAMPO</descripcion>
+        <latitud>41.317617</latitud>
+        <longitud>-4.909923</longitud>
+        <direccion>Avenida Estacion Ferrocarril, 27</direccion>
+        <cp>47400</cp>
+        <poblacion>MEDINA DEL CAMPO</poblacion>
+        <provincia>VALLADOLID</provincia>
+        <pais>ESPAÑA</pais>
+        <cercanias>NO</cercanias>
+        <feve>NO</feve>
+        <comun>MEDIN</comun>
+    </estacion>
+    <estacion>
+        <codigo>11600</codigo>
+        <descripcion>IRUN</descripcion>
+        <latitud>43.339582</latitud>
+        <longitud>-1.800192</longitud>
+        <direccion>Calle Estacion Ferrocarril, S/N</direccion>
+        <cp>20301</cp>
+        <poblacion>IRUN</poblacion>
+        <provincia>GIPUZKOA</provincia>
+        <pais>ESPAÑA</pais>
+        <cercanias>SI</cercanias>
+        <feve>NO</feve>
+        <comun>IRUN-</comun>
+    </estacion>
+    <estacion>
+        <codigo>11602</codigo>
+        <descripcion>HENDAYA</descripcion>
+        <latitud>43.352298</latitud>
+        <longitud>-1.783081</longitud>
+        <direccion>Boulevard Du General de Gaulle, S/N</direccion>
+        <cp></cp>
+        <poblacion>IRUN</poblacion>
+        <provincia>CEUTA</provincia>
+        <pais>ESPAÑA</pais>
+        <cercanias>NO</cercanias>
+        <feve>NO</feve>
+        <comun>IRUN-</comun>
+    </estacion>
+    <estacion>
+        <codigo>12100</codigo>
+        <descripcion>SEGOVIA</descripcion>
+        <latitud>40.93403</latitud>
+        <longitud>-4.11365</longitud>
+        <direccion>Calle Obispo Quesada, 1</direccion>
+        <cp>40006</cp>
+        <poblacion>SEGOVIA</poblacion>
+        <provincia>SEGOVIA</provincia>
+        <pais>ESPAÑA</pais>
+        <cercanias>NO</cercanias>
+        <feve>NO</feve>
+        <comun>SEGOV</comun>
+    </estacion>
+    <estacion>
+        <codigo>15402</codigo>
+        <descripcion>GIJÓN/XIXÓN</descripcion>
+        <latitud>43.539243</latitud>
+        <longitud>-5.675436</longitud>
+        <direccion></direccion>
+        <cp></cp>
+        <poblacion>GIJÓN</poblacion>
+        <provincia>ASTURIAS</provincia>
+        <pais>ESPAÑA</pais>
+        <cercanias>NO</cercanias>
+        <feve>NO</feve>
+        <comun>GIJON</comun>
+    </estacion>
+    <estacion>
+        <codigo>15403</codigo>
+        <descripcion>GIJÓN/XIXÓN</descripcion>
+        <latitud>43.53889</latitud>
+        <longitud>-5.675266</longitud>
+        <direccion></direccion>
+        <cp></cp>
+        <poblacion>GIJÓN</poblacion>
+        <provincia>ASTURIAS</provincia>
+        <pais>ESPAÑA</pais>
+        <cercanias>NO</cercanias>
+        <feve>NO</feve>
+        <comun>GIJON</comun>
+    </estacion>
+    <estacion>
+        <codigo>15410</codigo>
+        <descripcion>GIJÓN/XIXÓN</descripcion>
+        <latitud>43.535175</latitud>
+        <longitud>-5.698318</longitud>
+        <direccion>Calle Sanz Crespo, S/N</direccion>
+        <cp>33207</cp>
+        <poblacion>GIJÓN</poblacion>
+        <provincia>ASTURIAS</provincia>
+        <pais>ESPAÑA</pais>
+        <cercanias>SI</cercanias>
+        <feve>NO</feve>
+        <comun>GIJON</comun>
+    </estacion>
+    <estacion>
+        <codigo>17000</codigo>
+        <descripcion>MADRID-CHAMARTÍN-CLARA CAMPOAMOR</descripcion>
+        <latitud>40.4720993</latitud>
+        <longitud>-3.6824687</longitud>
+        <direccion>Calle Agustin de Foxa, S/N</direccion>
+        <cp>28036</cp>
+        <poblacion>MADRID</poblacion>
+        <provincia>MADRID</provincia>
+        <pais>ESPAÑA</pais>
+        <cercanias>SI</cercanias>
+        <feve>NO</feve>
+        <comun>MADRI</comun>
+    </estacion>
+    <estacion>
+        <codigo>18000</codigo>
+        <descripcion>MADRID - ATOCHA CERCANÍAS</descripcion>
+        <latitud>40.4061556</latitud>
+        <longitud>-3.6889579</longitud>
+        <direccion>Plaza del Emperador Carlos V, S/N</direccion>
+        <cp>28045</cp>
+        <poblacion>MADRID</poblacion>
+        <provincia>MADRID</provincia>
+        <pais>ESPAÑA</pais>
+        <cercanias>SI</cercanias>
+        <feve>NO</feve>
+        <comun>MADRI</comun>
+    </estacion>
+    <estacion>
+        <codigo>18002</codigo>
+        <descripcion>MADRID-NUEVOS MINISTERIOS</descripcion>
+        <latitud>40.4466171</latitud>
+        <longitud>-3.6923408</longitud>
+        <direccion>Calle Raimundo Fernandez Villaverde, 69</direccion>
+        <cp>28046</cp>
+        <poblacion>MADRID</poblacion>
+        <provincia>MADRID</provincia>
+        <pais>ESPAÑA</pais>
+        <cercanias>SI</cercanias>
+        <feve>NO</feve>
+        <comun>MADRI</comun>
+    </estacion>
+    <estacion>
+        <codigo>18101</codigo>
+        <descripcion>MADRID-SOL</descripcion>
+        <latitud>40.4168778</latitud>
+        <longitud>-3.7032107</longitud>
+        <direccion>Puerta del Sol, S/N</direccion>
+        <cp>28013</cp>
+        <poblacion>MADRID</poblacion>
+        <provincia>MADRID</provincia>
+        <pais>ESPAÑA</pais>
+        <cercanias>SI</cercanias>
+        <feve>NO</feve>
+        <comun>MADRI</comun>
+    </estacion>
+    <estacion>
+        <codigo>22300</codigo>
+        <descripcion>REDONDELA</descripcion>
+        <latitud>42.286005</latitud>
+        <longitud>-8.619402</longitud>
+        <direccion>Calle Aldea Portela, 83</direccion>
+        <cp>36800</cp>
+        <poblacion>REDONDELA</poblacion>
+        <provincia>PONTEVEDRA</provincia>
+        <pais>ESPAÑA</pais>
+        <cercanias>NO</cercanias>
+        <feve>NO</feve>
+        <comun>REDON</comun>
+    </estacion>
+    <estacion>
+        <codigo>22308</codigo>
+        <descripcion>VIGO GUIXAR</descripcion>
+        <latitud>42.2392656</latitud>
+        <longitud>-8.7146089</longitud>
+        <direccion>Rua Areal, S/N</direccion>
+        <cp>36201</cp>
+        <poblacion>VIGO</poblacion>
+        <provincia>PONTEVEDRA</provincia>
+        <pais>ESPAÑA</pais>
+        <cercanias>NO</cercanias>
+        <feve>NO</feve>
+        <comun>VIGO-</comun>
+    </estacion>
+    <estacion>
+        <codigo>30100</codigo>
+        <descripcion>SALAMANCA</descripcion>
+        <latitud>40.972235</latitud>
+        <longitud>-5.64899</longitud>
+        <direccion>Paseo de la Estacion, 122</direccion>
+        <cp>37004</cp>
+        <poblacion>SALAMANCA</poblacion>
+        <provincia>SALAMANCA</provincia>
+        <pais>ESPAÑA</pais>
+        <cercanias>NO</cercanias>
+        <feve>NO</feve>
+        <comun>SALAM</comun>
+    </estacion>
+    <estacion>
+        <codigo>30110</codigo>
+        <descripcion>SALAMANCA-LA ALAMEDILLA</descripcion>
+        <latitud>40.966763</latitud>
+        <longitud>-5.656366</longitud>
+        <direccion></direccion>
+        <cp></cp>
+        <poblacion>SALAMANCA</poblacion>
+        <provincia>SALAMANCA</provincia>
+        <pais>ESPAÑA</pais>
+        <cercanias>NO</cercanias>
+        <feve>NO</feve>
+        <comun>SALAM</comun>
+    </estacion>
+    <estacion>
+        <codigo>51402</codigo>
+        <descripcion>SAN FERNANDO CENTRO</descripcion>
+        <latitud>36.4757694</latitud>
+        <longitud>-6.1940833</longitud>
+        <direccion>Plaza Estacion Ferrocarril, S/N</direccion>
+        <cp>11100</cp>
+        <poblacion>SAN FERNANDO</poblacion>
+        <provincia>CÁDIZ</provincia>
+        <pais>ESPAÑA</pais>
+        <cercanias>SI</cercanias>
+        <feve>NO</feve>
+        <comun>S FER</comun>
+    </estacion>
+    <estacion>
+        <codigo>51406</codigo>
+        <descripcion>SAN FERNANDO-BAHÍA SUR</descripcion>
+        <latitud>36.4680361</latitud>
+        <longitud>-6.2067638</longitud>
+        <direccion>Avenida del Ferrocarril, S/N</direccion>
+        <cp>11100</cp>
+        <poblacion>SAN FERNANDO</poblacion>
+        <provincia>CÁDIZ</provincia>
+        <pais>ESPAÑA</pais>
+        <cercanias>SI</cercanias>
+        <feve>NO</feve>
+        <comun>S FER</comun>
+    </estacion>
+    <estacion>
+        <codigo>54201</codigo>
+        <descripcion>PUENTE GENIL</descripcion>
+        <latitud>37.395971</latitud>
+        <longitud>-4.752982</longitud>
+        <direccion></direccion>
+        <cp></cp>
+        <poblacion>PUENTE GENIL</poblacion>
+        <provincia>CÓRDOBA</provincia>
+        <pais>ESPAÑA</pais>
+        <cercanias>NO</cercanias>
+        <feve>NO</feve>
+        <comun>PTE G</comun>
+    </estacion>
+    <estacion>
+        <codigo>54400</codigo>
+        <descripcion>BOBADILLA</descripcion>
+        <latitud>37.037073</latitud>
+        <longitud>-4.727942</longitud>
+        <direccion>Plaza de la Estacion, S/N</direccion>
+        <cp>29540</cp>
+        <poblacion>ANTEQUERA</poblacion>
+        <provincia>MÁLAGA</provincia>
+        <pais>ESPAÑA</pais>
+        <cercanias>NO</cercanias>
+        <feve>NO</feve>
+        <comun>ANTEQ</comun>
+    </estacion>
+    <estacion>
+        <codigo>60000</codigo>
+        <descripcion>MADRID PTA. ATOCHA - ALMUDENA GRANDES</descripcion>
+        <latitud>40.406442</latitud>
+        <longitud>-3.690886</longitud>
+        <direccion>Glorieta Emperador Carlos V, S/N</direccion>
+        <cp>28045</cp>
+        <poblacion>MADRID</poblacion>
+        <provincia>MADRID</provincia>
+        <pais>ESPAÑA</pais>
+        <cercanias>SI</cercanias>
+        <feve>NO</feve>
+        <comun>MADRI</comun>
+    </estacion>
+    <estacion>
+        <codigo>65000</codigo>
+        <descripcion>VALENCIA-ESTACIÒ DEL NORD</descripcion>
+        <latitud>39.4669346</latitud>
+        <longitud>-0.3771842</longitud>
+        <direccion>Calle Xativa, 24</direccion>
+        <cp>46007</cp>
+        <poblacion>VALENCIA</poblacion>
+        <provincia>VALENCIA/VALÈNCIA</provincia>
+        <pais>ESPAÑA</pais>
+        <cercanias>SI</cercanias>
+        <feve>NO</feve>
+        <comun>VALEN</comun>
+    </estacion>
+    <estacion>
+        <codigo>65555</codigo>
+        <descripcion>VALENCIA ENLACE</descripcion>
+        <latitud>39.465064</latitud>
+        <longitud>-0.377433</longitud>
+        <direccion></direccion>
+        <cp></cp>
+        <poblacion>VALENCIA</poblacion>
+        <provincia>VALENCIA/VALÈNCIA</provincia>
+        <pais>ESPAÑA</pais>
+        <cercanias>SI</cercanias>
+        <feve>NO</feve>
+        <comun>VALEN</comun>
+    </estacion>
+    <estacion>
+        <codigo>66100</codigo>
+        <descripcion>CUENCA</descripcion>
+        <latitud>40.06734</latitud>
+        <longitud>-2.136471</longitud>
+        <direccion>Calle Mariano Catalina, 10</direccion>
+        <cp>16004</cp>
+        <poblacion>FUENTE OBEJUNA</poblacion>
+        <provincia>CUENCA</provincia>
+        <pais>ESPAÑA</pais>
+        <cercanias>NO</cercanias>
+        <feve>NO</feve>
+        <comun>CUENC</comun>
+    </estacion>
+    <estacion>
+        <codigo>66212</codigo>
+        <descripcion>VALENCIA SANT ISIDRE</descripcion>
+        <latitud>39.4526833</latitud>
+        <longitud>-0.4058694</longitud>
+        <direccion>Calle dels Gremis, S/N</direccion>
+        <cp>46014</cp>
+        <poblacion>VALENCIA</poblacion>
+        <provincia>VALENCIA/VALÈNCIA</provincia>
+        <pais>ESPAÑA</pais>
+        <cercanias>SI</cercanias>
+        <feve>NO</feve>
+        <comun>VALEN</comun>
+    </estacion>
+    <estacion>
+        <codigo>70200</codigo>
+        <descripcion>GUADALAJARA</descripcion>
+        <latitud>40.6441032</latitud>
+        <longitud>-3.1822298</longitud>
+        <direccion>Calle Francisco Aritio, S/N</direccion>
+        <cp>19004</cp>
+        <poblacion>GUADALAJARA</poblacion>
+        <provincia>GUADALAJARA</provincia>
+        <pais>ESPAÑA</pais>
+        <cercanias>SI</cercanias>
+        <feve>NO</feve>
+        <comun>GUADA</comun>
+    </estacion>
+    <estacion>
+        <codigo>70806</codigo>
+        <descripcion>ZARAGOZA PORTILLO</descripcion>
+        <latitud>41.6526636</latitud>
+        <longitud>-0.896165</longitud>
+        <direccion>Calle Manuel Escoriaza y Fabro, S/N</direccion>
+        <cp>50010</cp>
+        <poblacion>ZARAGOZA</poblacion>
+        <provincia>ZARAGOZA</provincia>
+        <pais>ESPAÑA</pais>
+        <cercanias>SI</cercanias>
+        <feve>NO</feve>
+        <comun>ZARAG</comun>
+    </estacion>
+    <estacion>
+        <codigo>70807</codigo>
+        <descripcion>ZARAGOZA GOYA</descripcion>
+        <latitud>41.644103</latitud>
+        <longitud>-0.891188</longitud>
+        <direccion>Avenida Goya, 47</direccion>
+        <cp>50006</cp>
+        <poblacion>ZARAGOZA</poblacion>
+        <provincia>ZARAGOZA</provincia>
+        <pais>ESPAÑA</pais>
+        <cercanias>SI</cercanias>
+        <feve>NO</feve>
+        <comun>ZARAG</comun>
+    </estacion>
+    <estacion>
+        <codigo>71100</codigo>
+        <descripcion>ZARAGOZA MIRAFLORES</descripcion>
+        <latitud>41.62977</latitud>
+        <longitud>-0.863064</longitud>
+        <direccion>Camino de Miraflores, S/N</direccion>
+        <cp>50013</cp>
+        <poblacion>ZARAGOZA</poblacion>
+        <provincia>ZARAGOZA</provincia>
+        <pais>ESPAÑA</pais>
+        <cercanias>SI</cercanias>
+        <feve>NO</feve>
+        <comun>ZARAG</comun>
+    </estacion>
+    <estacion>
+        <codigo>71500</codigo>
+        <descripcion>TARRAGONA</descripcion>
+        <latitud>41.111624</latitud>
+        <longitud>1.253214</longitud>
+        <direccion>Passeig de Espanya, S/N</direccion>
+        <cp>43004</cp>
+        <poblacion>TARRAGONA</poblacion>
+        <provincia>TARRAGONA</provincia>
+        <pais>ESPAÑA</pais>
+        <cercanias>SI</cercanias>
+        <feve>NO</feve>
+        <comun>TARRA</comun>
+    </estacion>
+    <estacion>
+        <codigo>71801</codigo>
+        <descripcion>BARCELONA-SANTS</descripcion>
+        <latitud>41.37922</latitud>
+        <longitud>2.140624</longitud>
+        <direccion>Plaça dels Paisos Catalans, 1 - 7</direccion>
+        <cp>08014</cp>
+        <poblacion>BARCELONA</poblacion>
+        <provincia>BARCELONA</provincia>
+        <pais>ESPAÑA</pais>
+        <cercanias>SI</cercanias>
+        <feve>NO</feve>
+        <comun>BARCE</comun>
+    </estacion>
+    <estacion>
+        <codigo>71802</codigo>
+        <descripcion>BARCELONA-PASSEIG DE GRACIA</descripcion>
+        <latitud>41.392281</latitud>
+        <longitud>2.164896</longitud>
+        <direccion>Passeig de Gracia - Esquina Arago, S/N</direccion>
+        <cp>08007</cp>
+        <poblacion>BARCELONA</poblacion>
+        <provincia>BARCELONA</provincia>
+        <pais>ESPAÑA</pais>
+        <cercanias>SI</cercanias>
+        <feve>NO</feve>
+        <comun>BARCE</comun>
+    </estacion>
+    <estacion>
+        <codigo>72400</codigo>
+        <descripcion>EL PRAT AEROPORT</descripcion>
+        <latitud>41.303844</latitud>
+        <longitud>2.07218</longitud>
+        <direccion>Zona Aeropuerto, S/N</direccion>
+        <cp>08820</cp>
+        <poblacion>PRAT DE LLOBREGAT (EL)</poblacion>
+        <provincia>BARCELONA</provincia>
+        <pais>ESPAÑA</pais>
+        <cercanias>SI</cercanias>
+        <feve>NO</feve>
+        <comun>BARCE</comun>
+    </estacion>
+    <estacion>
+        <codigo>78806</codigo>
+        <descripcion>BARCELONA LA SAGRERA MERIDIANA</descripcion>
+        <latitud>41.422638</latitud>
+        <longitud>2.187262</longitud>
+        <direccion>Avinguda Meridiana, S/N</direccion>
+        <cp>08027</cp>
+        <poblacion>BARCELONA</poblacion>
+        <provincia>BARCELONA</provincia>
+        <pais>ESPAÑA</pais>
+        <cercanias>SI</cercanias>
+        <feve>NO</feve>
+        <comun>BARCE</comun>
+    </estacion>
+    <estacion>
+        <codigo>79004</codigo>
+        <descripcion>BARCELONA-SANT ANDREU</descripcion>
+        <latitud>41.435807</latitud>
+        <longitud>2.193572</longitud>
+        <direccion>Plaça de L'Estacio, S/N</direccion>
+        <cp>08030</cp>
+        <poblacion>BARCELONA</poblacion>
+        <provincia>BARCELONA</provincia>
+        <pais>ESPAÑA</pais>
+        <cercanias>SI</cercanias>
+        <feve>NO</feve>
+        <comun>BARCE</comun>
+    </estacion>
+    <estacion>
+        <codigo>79009</codigo>
+        <descripcion>BARCELONA-EL CLOT</descripcion>
+        <latitud>41.41745</latitud>
+        <longitud>2.192893</longitud>
+        <direccion>Plaza Canonge Rodo, S/N</direccion>
+        <cp>08026</cp>
+        <poblacion>BARCELONA</poblacion>
+        <provincia>BARCELONA</provincia>
+        <pais>ESPAÑA</pais>
+        <cercanias>SI</cercanias>
+        <feve>NO</feve>
+        <comun>BARCE</comun>
+    </estacion>
+    <estacion>
+        <codigo>79315</codigo>
+        <descripcion>PORTBOU</descripcion>
+        <latitud>42.424494</latitud>
+        <longitud>3.157858</longitud>
+        <direccion>Calle Claudi Planas, S/N</direccion>
+        <cp>17497</cp>
+        <poblacion>PORTBOU</poblacion>
+        <provincia>GIRONA</provincia>
+        <pais>ESPAÑA</pais>
+        <cercanias>NO</cercanias>
+        <feve>NO</feve>
+        <comun>PORTB</comun>
+    </estacion>
+    <estacion>
+        <codigo>79316</codigo>
+        <descripcion>CERBÈRE</descripcion>
+        <latitud>42.441476</latitud>
+        <longitud>3.163259</longitud>
+        <direccion>Rue Lamartine</direccion>
+        <cp></cp>
+        <poblacion>PORTBOU</poblacion>
+        <provincia>GIRONA</provincia>
+        <pais>ESPAÑA</pais>
+        <cercanias>NO</cercanias>
+        <feve>NO</feve>
+        <comun>PORTB</comun>
+    </estacion>
+    <estacion>
+        <codigo>79400</codigo>
+        <descripcion>BARCELONA-ESTACIÓ DE FRANÇA</descripcion>
+        <latitud>41.384089</latitud>
+        <longitud>2.187004</longitud>
+        <direccion>Avenida Marques de Argentera, S/N</direccion>
+        <cp>08003</cp>
+        <poblacion>BARCELONA</poblacion>
+        <provincia>BARCELONA</provincia>
+        <pais>ESPAÑA</pais>
+        <cercanias>SI</cercanias>
+        <feve>NO</feve>
+        <comun>BARCE</comun>
+    </estacion>
+    <estacion>
+        <codigo>87049</codigo>
+        <descripcion>LYON PERRACHE</descripcion>
+        <latitud>45.7485434</latitud>
+        <longitud>4.8231329</longitud>
+        <direccion></direccion>
+        <cp></cp>
+        <poblacion>LYON</poblacion>
+        <provincia></provincia>
+        <pais>FRANCIA</pais>
+        <cercanias>NO</cercanias>
+        <feve>NO</feve>
+        <comun>LYON-</comun>
+    </estacion>
+    <estacion>
+        <codigo>87067</codigo>
+        <descripcion>VALENCE VILLE</descripcion>
+        <latitud>0.0</latitud>
+        <longitud>0.0</longitud>
+        <direccion></direccion>
+        <cp></cp>
+        <poblacion>VALENCE</poblacion>
+        <provincia></provincia>
+        <pais>FRANCIA</pais>
+        <cercanias>NO</cercanias>
+        <feve>NO</feve>
+        <comun>VALFR</comun>
+    </estacion>
+    <estacion>
+        <codigo>87100</codigo>
+        <descripcion>MONTPELLIER SUD DE FRANCE</descripcion>
+        <latitud>43.5951821</latitud>
+        <longitud>3.9216961</longitud>
+        <direccion></direccion>
+        <cp></cp>
+        <poblacion>MONTPELLIER</poblacion>
+        <provincia>DESCONOCIDO</provincia>
+        <pais>FRANCIA</pais>
+        <cercanias>NO</cercanias>
+        <feve>NO</feve>
+        <comun>MONTP</comun>
+    </estacion>
+    <estacion>
+        <codigo>87101</codigo>
+        <descripcion>NIMES PONT DU GARD</descripcion>
+        <latitud>43.8168789</latitud>
+        <longitud>4.3617439</longitud>
+        <direccion></direccion>
+        <cp></cp>
+        <poblacion>NIMES</poblacion>
+        <provincia></provincia>
+        <pais>FRANCIA</pais>
+        <cercanias>NO</cercanias>
+        <feve>NO</feve>
+        <comun>NIMES</comun>
+    </estacion>
+    <estacion>
+        <codigo>87173</codigo>
+        <descripcion>MONTPELLIER SAINT-ROCH</descripcion>
+        <latitud>43.604852</latitud>
+        <longitud>3.880491</longitud>
+        <direccion>Place Auguste Gibert Bp</direccion>
+        <cp></cp>
+        <poblacion>MONTPELLIER</poblacion>
+        <provincia>DESCONOCIDO</provincia>
+        <pais>FRANCIA</pais>
+        <cercanias>NO</cercanias>
+        <feve>NO</feve>
+        <comun>MONTP</comun>
+    </estacion>
+    <estacion>
+        <codigo>87302</codigo>
+        <descripcion>NIMES</descripcion>
+        <latitud>43.832291</latitud>
+        <longitud>4.365845</longitud>
+        <direccion>Boulevart Sergent Triaire</direccion>
+        <cp></cp>
+        <poblacion>NIMES</poblacion>
+        <provincia></provincia>
+        <pais>FRANCIA</pais>
+        <cercanias>NO</cercanias>
+        <feve>NO</feve>
+        <comun>NIMES</comun>
+    </estacion>
+    <estacion>
+        <codigo>87303</codigo>
+        <descripcion>LYON PART DIEU</descripcion>
+        <latitud>45.760281</latitud>
+        <longitud>4.859801</longitud>
+        <direccion>Place Chales Beraudier</direccion>
+        <cp></cp>
+        <poblacion>LYON</poblacion>
+        <provincia></provincia>
+        <pais>FRANCIA</pais>
+        <cercanias>NO</cercanias>
+        <feve>NO</feve>
+        <comun>LYON-</comun>
+    </estacion>
+    <estacion>
+        <codigo>87720</codigo>
+        <descripcion>LYON SAINT-EXUPERY TGV</descripcion>
+        <latitud>45.7209127</latitud>
+        <longitud>5.0732481</longitud>
+        <direccion></direccion>
+        <cp></cp>
+        <poblacion>LYON</poblacion>
+        <provincia></provincia>
+        <pais>FRANCIA</pais>
+        <cercanias>NO</cercanias>
+        <feve>NO</feve>
+        <comun>LYON-</comun>
+    </estacion>
+    <estacion>
+        <codigo>87810</codigo>
+        <descripcion>VALENCE TGV</descripcion>
+        <latitud>44.991545</latitud>
+        <longitud>4.978703</longitud>
+        <direccion>Valence Cedex, 9</direccion>
+        <cp></cp>
+        <poblacion>VALENCE</poblacion>
+        <provincia></provincia>
+        <pais>FRANCIA</pais>
+        <cercanias>NO</cercanias>
+        <feve>NO</feve>
+        <comun>VALFR</comun>
+    </estacion>
+    <estacion>
+        <codigo>94401</codigo>
+        <descripcion>LISBOA-SANTA APOLONIA</descripcion>
+        <latitud>38.713531</latitud>
+        <longitud>-9.123389</longitud>
+        <direccion>Avda. Infante Dom Henrique, 1</direccion>
+        <cp></cp>
+        <poblacion>LISBOA</poblacion>
+        <provincia></provincia>
+        <pais>PORTUGAL</pais>
+        <cercanias>NO</cercanias>
+        <feve>NO</feve>
+        <comun>LISBO</comun>
+    </estacion>
+    <estacion>
+        <codigo>94404</codigo>
+        <descripcion>LISBOA-ESTACIÓN ORIENTE</descripcion>
+        <latitud>38.767785</latitud>
+        <longitud>-9.09812</longitud>
+        <direccion>Avda. Dom João Ii</direccion>
+        <cp></cp>
+        <poblacion>LISBOA</poblacion>
+        <provincia></provincia>
+        <pais>PORTUGAL</pais>
+        <cercanias>NO</cercanias>
+        <feve>NO</feve>
+        <comun>LISBO</comun>
+    </estacion>
+    <estacion>
+        <codigo>97000</codigo>
+        <descripcion>RODALIES</descripcion>
+        <latitud>41.37952</latitud>
+        <longitud>2.140624</longitud>
+        <direccion></direccion>
+        <cp></cp>
+        <poblacion>BARCELONA</poblacion>
+        <provincia>BARCELONA</provincia>
+        <pais>ESPAÑA</pais>
+        <cercanias>SI</cercanias>
+        <feve>NO</feve>
+        <comun>BARCE</comun>
+    </estacion>
+    <estacion>
+        <codigo>98000</codigo>
+        <descripcion>MADRID - ATOCHA CERCANÍAS</descripcion>
+        <latitud>40.406528</latitud>
+        <longitud>-3.689373</longitud>
+        <direccion></direccion>
+        <cp></cp>
+        <poblacion>MADRID</poblacion>
+        <provincia>MADRID</provincia>
+        <pais>ESPAÑA</pais>
+        <cercanias>SI</cercanias>
+        <feve>NO</feve>
+        <comun>MADRI</comun>
+    </estacion>
+    <estacion>
+        <codigo>99000</codigo>
+        <descripcion>MADRID CERCANÍAS</descripcion>
+        <latitud>40.406528</latitud>
+        <longitud>-3.689373</longitud>
+        <direccion></direccion>
+        <cp></cp>
+        <poblacion>MADRID</poblacion>
+        <provincia>MADRID</provincia>
+        <pais>ESPAÑA</pais>
+        <cercanias>SI</cercanias>
+        <feve>NO</feve>
+        <comun>MADRI</comun>
+    </estacion>
+    <estacion>
+        <codigo>99117</codigo>
+        <descripcion>OURENSE TURÍSTICO</descripcion>
+        <latitud>42.350389</latitud>
+        <longitud>-7.872777</longitud>
+        <direccion></direccion>
+        <cp></cp>
+        <poblacion>OURENSE</poblacion>
+        <provincia>OURENSE</provincia>
+        <pais>ESPAÑA</pais>
+        <cercanias>SI</cercanias>
+        <feve>NO</feve>
+        <comun>DESCO</comun>
+    </estacion>
+    <estacion>
+        <codigo>99130</codigo>
+        <descripcion>ANTEQUERA SANTA ANA</descripcion>
+        <latitud>37.069881</latitud>
+        <longitud>-4.719014</longitud>
+        <direccion></direccion>
+        <cp></cp>
+        <poblacion>ANTEQUERA</poblacion>
+        <provincia>MÁLAGA</provincia>
+        <pais>ESPAÑA</pais>
+        <cercanias>NO</cercanias>
+        <feve>NO</feve>
+        <comun>ANTEQ</comun>
+    </estacion>
+    <estacion>
+        <codigo>99132</codigo>
+        <descripcion>MADRID-PRÍNCIPE PÍO TURÍSTICO</descripcion>
+        <latitud>40.421264</latitud>
+        <longitud>-3.720095</longitud>
+        <direccion></direccion>
+        <cp></cp>
+        <poblacion>MADRID</poblacion>
+        <provincia>MADRID</provincia>
+        <pais>ESPAÑA</pais>
+        <cercanias>SI</cercanias>
+        <feve>NO</feve>
+        <comun>MADRI</comun>
+    </estacion>
+    <estacion>
+        <codigo>99140</codigo>
+        <descripcion>MADRID-CHAMARTÍN-CLARA CAMPOAMOR</descripcion>
+        <latitud>40.471184</latitud>
+        <longitud>-3.682807</longitud>
+        <direccion></direccion>
+        <cp></cp>
+        <poblacion>MADRID</poblacion>
+        <provincia>MADRID</provincia>
+        <pais>ESPAÑA</pais>
+        <cercanias>SI</cercanias>
+        <feve>NO</feve>
+        <comun>MADRI</comun>
+    </estacion>
+    <estacion>
+        <codigo>99171</codigo>
+        <descripcion>SALAMANCA-BUS</descripcion>
+        <latitud>40.972235</latitud>
+        <longitud>-5.64899</longitud>
+        <direccion></direccion>
+        <cp></cp>
+        <poblacion>SALAMANCA</poblacion>
+        <provincia>SALAMANCA</provincia>
+        <pais>ESPAÑA</pais>
+        <cercanias>NO</cercanias>
+        <feve>NO</feve>
+        <comun>SALAM</comun>
+    </estacion>
+    <estacion>
+        <codigo>99172</codigo>
+        <descripcion>GIJÓN-TURÍSTICO</descripcion>
+        <latitud>43.535175</latitud>
+        <longitud>-5.698318</longitud>
+        <direccion></direccion>
+        <cp></cp>
+        <poblacion>GIJÓN</poblacion>
+        <provincia>ASTURIAS</provincia>
+        <pais>ESPAÑA</pais>
+        <cercanias>SI</cercanias>
+        <feve>NO</feve>
+        <comun>GIJON</comun>
+    </estacion>
+</estaciones>
