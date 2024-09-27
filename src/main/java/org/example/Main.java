@@ -22,22 +22,20 @@ public class Main {
                 if (value.length >= 12) {
                     Estacion estacion = new Estacion();
 
-                    estacion.setCodigo(value.length > 0 && !value[0].trim().isEmpty() ? Integer.parseInt(value[0].trim()) : 0);
-                    estacion.setDescripcion(value.length > 1 ? value[1].trim() : "");
-                    estacion.setLatitud(value.length > 2 && !value[2].trim().isEmpty() ? Double.parseDouble(value[2].trim()) : 0.0);
-                    estacion.setLongitud(value.length > 3 && !value[3].trim().isEmpty() ? Double.parseDouble(value[3].trim()) : 0.0);
-                    estacion.setDireccion(value.length > 4 ? value[4].trim() : "");
-                    estacion.setCp(value.length > 5 ? value[5].trim() : "");
-                    estacion.setPoblacion(value.length > 6 ? value[6].trim() : "");
-                    estacion.setProvincia(value.length > 7 ? value[7].trim() : "");
-                    estacion.setPais(value.length > 8 ? value[8].trim() : "");
-                    estacion.setCercanias(value.length > 9 ? value[9].trim() : "");
-                    estacion.setFeve(value.length > 10 ? value[10].trim() : "");
-                    estacion.setComun(value.length > 11 ? value[11].trim() : "");
+                    estacion.setCodigo(!value[0].trim().isEmpty() ? Integer.parseInt(value[0].trim()) : 0);
+                    estacion.setDescripcion(value[1].trim());
+                    estacion.setLatitud(!value[2].trim().isEmpty() ? Double.parseDouble(value[2].trim()) : 0.0);
+                    estacion.setLongitud(!value[3].trim().isEmpty() ? Double.parseDouble(value[3].trim()) : 0.0);
+                    estacion.setDireccion(value[4].trim());
+                    estacion.setCp(value[5].trim());
+                    estacion.setPoblacion(value[6].trim());
+                    estacion.setProvincia(value[7].trim());
+                    estacion.setPais(value[8].trim());
+                    estacion.setCercanias(value[9].trim());
+                    estacion.setFeve(value[10].trim());
+                    estacion.setComun(value[11].trim());
 
                     list.add(estacion);
-                } else {
-                    System.out.println("Línea con formato incorrecto: " + line);
                 }
             }
         } catch (IOException e) {
@@ -46,7 +44,7 @@ public class Main {
 
         estaciones.setListEstacion(list);
 
-        System.out.println("Número de estaciones procesadas: " + list.size());
+        System.out.println("Estaciones procesadas: " + list.size());
 
         try {
             JAXBContext jaxbContext = JAXBContext.newInstance(Estaciones.class);
